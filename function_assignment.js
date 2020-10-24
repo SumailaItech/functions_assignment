@@ -10,3 +10,5 @@ function showAlert2(name){
 
 showAlert1();
 showAlert2('Sumaila');
+
+task3Element.addEventListener('click',showAlert1);
