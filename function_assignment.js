@@ -7,3 +7,6 @@ function showAlert1(){
 function showAlert2(name){
     alert(name);
 }
+
+showAlert1();
+showAlert2('Sumaila');
